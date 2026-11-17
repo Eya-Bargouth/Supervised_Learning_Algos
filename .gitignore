@@ -1,0 +1,22 @@
+# Bases de données (non versionnées)
+*.csv
+*.xlsx
+*.xls
+
+# Environnement virtuel
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
